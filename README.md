@@ -1,5 +1,5 @@
 # My first Calculator
-I know its too small code but I am a beginner so just leaening tut7 is my first input oython project :)
+I know its too small code but I am a beginner so just leaening tut7 is my first input python project :)
 To use it its too simple just follow the steps on termux or python or anyother thing 
 ---------------
 1. pkg install git 
